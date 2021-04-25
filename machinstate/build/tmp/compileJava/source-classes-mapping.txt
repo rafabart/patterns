@@ -1,0 +1,29 @@
+com/machinstate/MachinstateApplication.java
+ com.machinstate.MachinstateApplication
+com/machinstate/repository/MessageRepository.java
+ com.machinstate.repository.MessageRepository
+com/machinstate/exception/InvalidStateTransitionException.java
+ com.machinstate.exception.InvalidStateTransitionException
+com/machinstate/service/impl/ChangeMessageStatePopulatedImpl.java
+ com.machinstate.service.impl.ChangeMessageStatePopulatedImpl
+com/machinstate/service/impl/ChangeMessageStateErrorPopulationImpl.java
+ com.machinstate.service.impl.ChangeMessageStateErrorPopulationImpl
+com/machinstate/service/AbstractChangeMessageState.java
+ com.machinstate.service.AbstractChangeMessageState
+com/machinstate/service/impl/ChangeMessageStateErrorIntegrationImpl.java
+ com.machinstate.service.impl.ChangeMessageStateErrorIntegrationImpl
+com/machinstate/domain/Message.java
+ com.machinstate.domain.Message
+ com.machinstate.domain.Message$MessageBuilder
+com/machinstate/service/ChangeMessageStateStrategy.java
+ com.machinstate.service.ChangeMessageStateStrategy
+com/machinstate/MessageFactory.java
+ com.machinstate.MessageFactory
+com/machinstate/service/ChangeMessageState.java
+ com.machinstate.service.ChangeMessageState
+com/machinstate/enums/MessageState.java
+ com.machinstate.enums.MessageState
+com/machinstate/service/ChangeMessageStateStrategy2.java
+ com.machinstate.service.ChangeMessageStateStrategy2
+com/machinstate/DataStart.java
+ com.machinstate.DataStart
